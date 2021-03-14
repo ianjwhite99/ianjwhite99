@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ianjwhite99
+- 👀 I’m interested in Machine Learning, Web/Mobile App Development, and Memes
+- 🌱 I’m currently learning React, React Native, and Serverless
+- 📫 How to reach me: [@ianjwhite99](https://twitter.com/ianjwhite99) on Twitter or at iwhite@cs3marketing.com
