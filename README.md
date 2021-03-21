@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine Learning, Full-stack Web/Mobile App Development
 - 🌱 I’m currently learning React, React Native, and Serverless
 - ☕ Interesting in supporting me or my projects? You can [buy me a coffee](https://www.buymeacoffee.com/ianjwhite9)!
-- 📫 How to reach me: [@ianjwhite99](https://twitter.com/ianjwhite99) on Twitter or at ianjwhite99@gmail.com
+- 📫 How to reach me: [@ianjwhite99](https://twitter.com/ianjwhite99) on Twitter or at iwhite99@protonmail.com
